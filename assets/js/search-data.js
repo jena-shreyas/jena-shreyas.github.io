@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -431,16 +431,20 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-excited-to-receive-the-mitacs-globalink-fellowship-for-pursuing-an-on-site-summer-internship-at-éts-montréal",
+          title: 'Excited to receive the MITACS Globalink Fellowship for pursuing an on-site summer internship...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-working-as-a-research-intern-at-the-livia-lab-éts-montréal",
+          title: 'Started working as a Research Intern at the LIVIA Lab, ÉTS Montréal.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-working-as-a-research-intern-at-vision-and-ai-lab-val-iisc-bangalore",
+          title: 'Started working as a Research Intern at Vision and AI Lab (VAL), IISc...',
+          description: "",
+          section: "News",},{id: "news-started-working-as-an-undergraduate-safety-researcher-intern-at-enkrypt-ai",
+          title: 'Started working as an Undergraduate Safety Researcher Intern at Enkrypt AI.',
+          description: "",
+          section: "News",},{id: "news-attending-the-google-deepmind-research-symposium-at-google-deepmind-india-bengaluru-on-27th-28th-jan",
+          title: 'Attending the Google DeepMind Research Symposium at Google DeepMind India, Bengaluru on 27th-28th...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
