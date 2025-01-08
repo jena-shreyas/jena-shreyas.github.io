@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology Kharagpur</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Dual Degree (B.Tech + M.Tech) student at [Indian Institute of Technology (IIT) Kharagpur](https://www.iitkgp.ac.in/), majoring in Computer Science and Engineering. I'm currently working with [Prof. Somak Aditya](https://adityasomak.github.io/#about) in the [Tr^2AIL Lab](https://adityasomak.github.io/research/) on Multimodal reasoning in Videos as part of my Master's Thesis project. My interests lie in Software Development and Machine Learning, particularly exploring technologies like large multimodal models, LLMs, and diffusion models. I’m also curious about how these technologies can be aligned with human interests in a safe and unbiased way, ensuring they benefit everyone and contribute to improving lives.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently an Undergraduate Safety Researcher Intern at [Enkrypt AI](https://www.enkryptai.com/), working on Red Teaming of Multimodal models. Previously, I was a summer intern at the [Vision and AI Lab](https://val.cds.iisc.ac.in/index.html), [Department of Computational and Data Sciences (CDS)](https://cds.iisc.ac.in/) at [IISc Bangalore](https://iisc.ac.in/), working with [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) on 3D Vision and generative Diffusion Models. I was also fortunate to work with [Prof. Eric Granger](https://www.etsmtl.ca/en/study-at-ets/professors/egranger) at the [LIVIA Lab](https://www.etsmtl.ca/en/labs/livia), [École de technologie supérieure (ÉTS) Montréal](https://www.etsmtl.ca/) on interpretability of CNNs and Vision Transformers (ViTs) in image classification tasks. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm always open for discussions and collaborations - feel free to reach out via email or any of my social media handles!
